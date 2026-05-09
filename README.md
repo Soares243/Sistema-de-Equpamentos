@@ -4,6 +4,8 @@
 
 Este repositório contém a documentação e imagens do Sistema de Equipamentos, uma plataforma desenvolvida para gerenciar e analisar equipamentos em diversos contextos. O sistema inclui funcionalidades para controle de estoque, manutenção preventiva, análise gerencial e direcionamento estratégico.
 
+Foi reduzido em 100% a taxa de furtos no campo com a implementação desse sistema; Também uma economia de em média 46.89% de gastos com equipamentos (de acordo com os dados coletados desde janeiro/2026 até Março/2026) estraviados ou danificados, pois, com a rastriabilidade, os envolvidos serão rastreados e devidamente descontados.
+
 ## Funcionalidades Principais
 
 - **Controle de Estoque**: Gerenciamento eficiente do inventário de equipamentos.
