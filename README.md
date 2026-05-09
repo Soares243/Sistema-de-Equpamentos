@@ -16,6 +16,7 @@ Foi reduzido em 100% a taxa de furtos no campo com a implementação desse siste
 ## Análise Gerencial
 
 A parte de análise gerencial do sistema foi desenvolvida por **Ester Soares Serafim** através de cálculos matemáticos rigorosos. Esses cálculos foram validados por engenheiros especializados da **Macro Ambiental**, garantindo a precisão e confiabilidade das análises realizadas.
+[📄 Abrir PDF](Calculo_de_analise_de_equipamentos_pequenos_assinado.pdf)
 
 ### Imagens Relacionadas
 
